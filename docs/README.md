@@ -47,7 +47,8 @@ See all alternative installation methods [here](https://sherlockproject.xyz/inst
 
 To search for only one user:
 ```bash
-sherlock user毛宇琪
+sherlock user123
+
 ```
 
 To search for more than one user:
